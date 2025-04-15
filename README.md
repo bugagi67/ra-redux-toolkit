@@ -1,5 +1,7 @@
 # React + toolkit
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github&style=flat-square)](https://bugagi67.github.io/ra-redux-toolkit/)
+
 # Домашнее задание к занятию «Redux Toolkit»
 ===
 
